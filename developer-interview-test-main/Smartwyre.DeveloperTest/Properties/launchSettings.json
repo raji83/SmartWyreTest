@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Smartwyre.DeveloperTest": {
+      "commandName": "Project",
+      "commandLineArgs": "1000 12345 12345678 1/1/2020 BankToBankTransfer"
+    }
+  }
+}
